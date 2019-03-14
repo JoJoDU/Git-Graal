@@ -4,7 +4,7 @@ inventaire:
   - cheval 
 personnages:
   - moi:
-    - santé: 7
+    - santé: 2
   - chevalier_noir:
     - santé: 9
   - lion:
