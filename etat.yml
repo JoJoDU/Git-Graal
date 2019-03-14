@@ -1,12 +1,12 @@
-lieu: route
+lieu: fontaine
 inventaire:
   - grimoire
   - cheval 
 personnages:
   - moi:
-    - santé: 10
+    - santé: 7
   - chevalier_noir:
-    - santé: 15
+    - santé: 9
   - lion:
     - santé: 20
   - serpent:
@@ -15,6 +15,7 @@ personnages:
     - santé: 25
     
 ADVERSAIRE:
+    - chevalier_noir
 ÉQUIPEMENT:
     - grimoire
     - cheval 
