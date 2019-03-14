@@ -14,11 +14,7 @@ personnages:
     - santé: 25
     
 ADVERSAIRE:
-    - lion
-    - serpent
+    - chevalier_noir
 ÉQUIPEMENT:
-    - cheval
     - grimoire
 TÉMOIGNAGE:   
-    - chevalier_noir 
-    - géant
