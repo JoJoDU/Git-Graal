@@ -229,7 +229,7 @@ Il est temps que vous preniez note de ce qui vous est arrivé.
 Le Graal, personne ne l'a jamais vu, ni ne sait ce que c'est : une coupe, une fiole de sang, des rouleaux de parchemin, un antique chaudron celte ?
 Qui le sait, si ce n'est vous.
 
-![Le Graal tel que vous l'avez vu]()
+![Le Graal tel que vous l'avez vu]((https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Antioch_Chalice%2C_first_half_of_6th_century%2C_Metropolitan_Museum_of_Art.jpg/180px-The_Antioch_Chalice%2C_first_half_of_6th_century%2C_Metropolitan_Museum_of_Art.jpg))
 
 - Dessinez ce que vous avez vu.
 - Numérisez-le et déposez le fichier dans ce dossier.
